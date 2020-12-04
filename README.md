@@ -11,3 +11,5 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zigusretl&langs_count=10)](https://github.com/zigusretl/github-readme-stats)
+
+<p>Mis lenguajes favoritos son; java, C#, python, y sobretodo estoy interesado en el frontend.</p>
