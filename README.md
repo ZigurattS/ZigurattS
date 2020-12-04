@@ -1,7 +1,13 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zigusretl&show_icons=true&locale=en&layout=compact" alt="zigusretl"/>
+<h1><b>Bienvenid@s!</b></h1>
 
+<p>Mi nombre es <b>Jesús Rubio Perales</b> aunque todos me llaman <b>Zigu</b>. Soy amante de los animales, de la literatura; mi escritor favorito es Simon Scarrow, y me estudiante de <b>DAM (Desarrollo de aplicaciones multiplataforma)</b>.</p>
 
-![Estadisticas](https://github-readme-stats.vercel.app/api?username=zigusretl&show_icons=true&bg_color=DEG,#e1bee7,#e1bee7)
+<h2>Estadísticas GitHub</h2>
 
+![Estadisticas](https://github-readme-stats.vercel.app/api?username=zigusretl&show_icons=true&theme=tokyonight)
+<br>
+<br>
+<h2>Lenguajes más usados</h2>
+<br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zigusretl&theme=onedark&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zigusretl&langs_count=10)](https://github.com/zigusretl/github-readme-stats)
