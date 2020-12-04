@@ -10,6 +10,6 @@
 <h2>Lenguajes más usados</h2>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zigusretl&langs_count=10)](https://github.com/zigusretl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zigusretl&layout=compact)](https://github.com/zigusretl/github-readme-stats)
 
 <p>Mis lenguajes favoritos son; java, C#, python, y sobretodo estoy interesado en el frontend.</p>
