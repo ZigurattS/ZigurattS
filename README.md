@@ -4,12 +4,12 @@
 
 <h2>Estadísticas GitHub</h2>
 
-![Estadisticas](https://github-readme-stats.vercel.app/api?username=zigusretl&show_icons=true&theme=tokyonight)
+![Estadisticas](https://github-readme-stats.vercel.app/api?username=ZigurattS&show_icons=true&theme=tokyonight)
 <br>
 <br>
 <h2>Lenguajes más usados</h2>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zigusretl&layout=compact)](https://github.com/zigusretl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZigurattS&layout=compact)](https://github.com/ZigurattS/github-readme-stats)
 
 <p>Mis lenguajes favoritos son; java, C#, python, y sobretodo estoy interesado en el frontend.</p>
